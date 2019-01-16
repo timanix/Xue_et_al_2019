@@ -1,0 +1,159 @@
+CHROM	POS	N_ALLELES	N_CHR	{ALLELE:FREQ}
+18S_M_Incognita_reconstructed_FXSY01002986.1	16	2	2	C:0.5	T:0.5
+18S_M_Incognita_reconstructed_FXSY01002986.1	26	2	2	G:0	A:1
+18S_M_Incognita_reconstructed_FXSY01002986.1	36	2	2	GCA:1	GA:0
+18S_M_Incognita_reconstructed_FXSY01002986.1	54	2	2	GTTTTAAC:0.5	GTTTATC:0.5
+18S_M_Incognita_reconstructed_FXSY01002986.1	71	2	2	C:1	T:0
+18S_M_Incognita_reconstructed_FXSY01002986.1	95	2	2	G:0.5	T:0.5
+18S_M_Incognita_reconstructed_FXSY01002986.1	104	2	2	G:0.5	A:0.5
+18S_M_Incognita_reconstructed_FXSY01002986.1	114	2	2	A:0.5	G:0.5
+18S_M_Incognita_reconstructed_FXSY01002986.1	154	3	2	ACACC:0	GCACT:0.5	GCACC:0.5
+18S_M_Incognita_reconstructed_FXSY01002986.1	172	2	2	CT:0.5	TA:0.5
+18S_M_Incognita_reconstructed_FXSY01002986.1	241	2	2	A:0.5	T:0.5
+18S_M_Incognita_reconstructed_FXSY01002986.1	463	2	2	TC:0.5	CT:0.5
+18S_M_Incognita_reconstructed_FXSY01002986.1	569	2	2	G:1	T:0
+18S_M_Incognita_reconstructed_FXSY01002986.1	571	2	2	T:0.5	A:0.5
+18S_M_Incognita_reconstructed_FXSY01002986.1	598	2	2	A:0.5	G:0.5
+18S_M_Incognita_reconstructed_FXSY01002986.1	606	2	2	G:0.5	A:0.5
+18S_M_Incognita_reconstructed_FXSY01002986.1	624	2	2	G:0.5	A:0.5
+18S_M_Incognita_reconstructed_FXSY01002986.1	627	2	2	C:0.5	T:0.5
+18S_M_Incognita_reconstructed_FXSY01002986.1	629	2	2	C:0.5	T:0.5
+18S_M_Incognita_reconstructed_FXSY01002986.1	638	3	2	AC:0	TT:0.5	TC:0.5
+18S_M_Incognita_reconstructed_FXSY01002986.1	647	2	2	TTCTG:0.5	CTCTA:0.5
+18S_M_Incognita_reconstructed_FXSY01002986.1	666	2	2	A:1	T:0
+18S_M_Incognita_reconstructed_FXSY01002986.1	792	2	2	C:0.5	T:0.5
+18S_M_Incognita_reconstructed_FXSY01002986.1	798	2	2	C:1	T:0
+18S_M_Incognita_reconstructed_FXSY01002986.1	867	2	2	C:0.5	T:0.5
+18S_M_Incognita_reconstructed_FXSY01002986.1	935	2	2	CTTC:0.5	TTTT:0.5
+18S_M_Incognita_reconstructed_FXSY01002986.1	962	2	2	T:0	G:1
+18S_M_Incognita_reconstructed_FXSY01002986.1	986	2	2	C:1	T:0
+18S_M_Incognita_reconstructed_FXSY01002986.1	1077	2	2	A:0	C:1
+18S_M_Incognita_reconstructed_FXSY01002986.1	1327	2	2	C:0.5	T:0.5
+18S_M_Incognita_reconstructed_FXSY01002986.1	1332	2	2	A:0.5	G:0.5
+18S_M_Incognita_reconstructed_FXSY01002986.1	1337	3	2	ATTTAA:0	CTCTTA:0.5	CTCTTT:0.5
+18S_M_Incognita_reconstructed_FXSY01002986.1	1373	2	2	T:0.5	C:0.5
+18S_M_Incognita_reconstructed_FXSY01002986.1	1476	2	2	C:0.5	T:0.5
+ITS1_M_Incognita_reconstructed_FXSY01002986.1	14	2	2	G:0	T:1
+ITS1_M_Incognita_reconstructed_FXSY01002986.1	32	3	2	CGTA:0	TGA:0.5	CAAA:0.5
+ITS1_M_Incognita_reconstructed_FXSY01002986.1	38	3	2	TATATT:0	TGATC:0.5	TATACT:0.5
+ITS1_M_Incognita_reconstructed_FXSY01002986.1	72	2	2	G:0.5	A:0.5
+ITS1_M_Incognita_reconstructed_FXSY01002986.1	86	2	2	A:0.5	G:0.5
+ITS1_M_Incognita_reconstructed_FXSY01002986.1	92	2	2	G:0.5	T:0.5
+ITS1_M_Incognita_reconstructed_FXSY01002986.1	131	2	2	CTA:0.5	CTTTA:0.5
+ITS1_M_Incognita_reconstructed_FXSY01002986.1	147	2	2	T:0.5	C:0.5
+ITS1_M_Incognita_reconstructed_FXSY01002986.1	169	2	2	A:0.5	C:0.5
+ITS1_M_Incognita_reconstructed_FXSY01002986.1	177	2	2	ACTCTTTTTTTCTCTA:0.5	AACCTTTTTTTTCTCTA:0.5
+ITS1_M_Incognita_reconstructed_FXSY01002986.1	193	2	2	T:0.5	C:0.5
+ITS1_M_Incognita_reconstructed_FXSY01002986.1	194	3	2	ATTTTTTAAAAAA:1	ATTTTATAAAAAA:0	ATTTTTAAAAAAA:0
+ITS1_M_Incognita_reconstructed_FXSY01002986.1	207	2	2	G:0	A:1
+5.8S_M_Incognita_reconstructed_FXSY01002986.1	5	2	2	G:0.5	C:0.5
+5.8S_M_Incognita_reconstructed_FXSY01002986.1	10	2	2	G:0	A:1
+5.8S_M_Incognita_reconstructed_FXSY01002986.1	24	2	2	C:0.5	A:0.5
+5.8S_M_Incognita_reconstructed_FXSY01002986.1	28	2	2	T:1	A:0
+5.8S_M_Incognita_reconstructed_FXSY01002986.1	66	2	2	TG:0.5	AT:0.5
+5.8S_M_Incognita_reconstructed_FXSY01002986.1	82	2	2	ACC:0.5	GTA:0.5
+5.8S_M_Incognita_reconstructed_FXSY01002986.1	109	2	2	TATT:0.5	AATG:0.5
+5.8S_M_Incognita_reconstructed_FXSY01002986.1	115	2	2	C:0.5	A:0.5
+5.8S_M_Incognita_reconstructed_FXSY01002986.1	122	2	2	G:0.5	A:0.5
+5.8S_M_Incognita_reconstructed_FXSY01002986.1	131	2	2	C:0.5	T:0.5
+5.8S_M_Incognita_reconstructed_FXSY01002986.1	132	2	2	C:1	T:0
+5.8S_M_Incognita_reconstructed_FXSY01002986.1	138	2	2	T:0.5	A:0.5
+ITS2_M_Incognita_reconstructed_FXSY01002986.1	21	2	2	A:0.5	G:0.5
+ITS2_M_Incognita_reconstructed_FXSY01002986.1	28	2	2	A:0.5	T:0.5
+ITS2_M_Incognita_reconstructed_FXSY01002986.1	33	2	2	A:0.5	C:0.5
+ITS2_M_Incognita_reconstructed_FXSY01002986.1	37	2	2	ATG:1	ATTG:0
+ITS2_M_Incognita_reconstructed_FXSY01002986.1	45	2	2	G:0.5	T:0.5
+ITS2_M_Incognita_reconstructed_FXSY01002986.1	66	2	2	A:0.5	T:0.5
+ITS2_M_Incognita_reconstructed_FXSY01002986.1	76	2	2	G:0.5	A:0.5
+ITS2_M_Incognita_reconstructed_FXSY01002986.1	79	2	2	C:0.5	A:0.5
+ITS2_M_Incognita_reconstructed_FXSY01002986.1	82	2	2	A:0.5	G:0.5
+ITS2_M_Incognita_reconstructed_FXSY01002986.1	85	2	2	G:0.5	T:0.5
+ITS2_M_Incognita_reconstructed_FXSY01002986.1	89	3	2	AAATATAGCTA:0	GAATATAACTA:0.5	AAATATAACTA:0.5
+ITS2_M_Incognita_reconstructed_FXSY01002986.1	103	2	2	AAATCAAGCAAC:0.5	AAATCAAACAAT:0.5
+28S_M_Incognita_reconstructed_FXSY01002986.1	57	2	2	C:0.5	T:0.5
+28S_M_Incognita_reconstructed_FXSY01002986.1	85	2	2	C:0.5	A:0.5
+28S_M_Incognita_reconstructed_FXSY01002986.1	93	2	2	T:0.5	A:0.5
+28S_M_Incognita_reconstructed_FXSY01002986.1	109	2	2	A:0.5	G:0.5
+28S_M_Incognita_reconstructed_FXSY01002986.1	115	2	2	C:0.5	T:0.5
+28S_M_Incognita_reconstructed_FXSY01002986.1	145	3	2	CCGTAAT:0	TCGTAAA:0.5	CCGTAAA:0.5
+28S_M_Incognita_reconstructed_FXSY01002986.1	152	2	2	C:1	T:0
+28S_M_Incognita_reconstructed_FXSY01002986.1	160	2	2	TTT:0.5	GAG:0.5
+28S_M_Incognita_reconstructed_FXSY01002986.1	164	2	2	G:1	A:0
+28S_M_Incognita_reconstructed_FXSY01002986.1	188	2	2	G:0.5	A:0.5
+28S_M_Incognita_reconstructed_FXSY01002986.1	217	2	2	A:0.5	G:0.5
+28S_M_Incognita_reconstructed_FXSY01002986.1	226	2	2	A:0.5	G:0.5
+28S_M_Incognita_reconstructed_FXSY01002986.1	238	2	2	T:0.5	C:0.5
+28S_M_Incognita_reconstructed_FXSY01002986.1	306	2	2	C:0.5	T:0.5
+28S_M_Incognita_reconstructed_FXSY01002986.1	398	2	2	G:0.5	A:0.5
+28S_M_Incognita_reconstructed_FXSY01002986.1	427	2	2	T:0.5	A:0.5
+28S_M_Incognita_reconstructed_FXSY01002986.1	428	2	2	T:0.5	C:0.5
+28S_M_Incognita_reconstructed_FXSY01002986.1	433	2	2	G:0.5	T:0.5
+28S_M_Incognita_reconstructed_FXSY01002986.1	440	2	2	T:0.5	G:0.5
+28S_M_Incognita_reconstructed_FXSY01002986.1	451	2	2	T:1	C:0
+28S_M_Incognita_reconstructed_FXSY01002986.1	463	2	2	T:0.5	C:0.5
+28S_M_Incognita_reconstructed_FXSY01002986.1	464	2	2	C:1	A:0
+28S_M_Incognita_reconstructed_FXSY01002986.1	488	2	2	GG:0.5	AA:0.5
+28S_M_Incognita_reconstructed_FXSY01002986.1	493	2	2	G:0.5	T:0.5
+28S_M_Incognita_reconstructed_FXSY01002986.1	505	2	2	TC:0.5	AT:0.5
+28S_M_Incognita_reconstructed_FXSY01002986.1	511	2	2	A:0.5	G:0.5
+28S_M_Incognita_reconstructed_FXSY01002986.1	524	3	2	TTTC:0	ATTG:0.5	TTTG:0.5
+28S_M_Incognita_reconstructed_FXSY01002986.1	546	2	2	G:1	T:0
+28S_M_Incognita_reconstructed_FXSY01002986.1	557	3	2	AACCGC:0	TTCCGT:0.5	GTCCGC:0.5
+28S_M_Incognita_reconstructed_FXSY01002986.1	596	2	2	T:1	C:0
+28S_M_Incognita_reconstructed_FXSY01002986.1	616	3	2	TA:0	GG:0.5	AA:0.5
+28S_M_Incognita_reconstructed_FXSY01002986.1	629	3	2	TGCTTACGGGCATTA:0	GGCTTACGGGCATTT:0.5	GGCTCACGTGTATTT:0.5
+28S_M_Incognita_reconstructed_FXSY01002986.1	649	2	2	TTC:0.5	ACA:0.5
+28S_M_Incognita_reconstructed_FXSY01002986.1	657	2	2	GA:1	AG:0
+28S_M_Incognita_reconstructed_FXSY01002986.1	664	2	2	G:0	A:1
+28S_M_Incognita_reconstructed_FXSY01002986.1	692	3	2	AT:0	CC:0.5	TC:0.5
+28S_M_Incognita_reconstructed_FXSY01002986.1	727	2	2	AT:0	GT:1
+28S_M_Incognita_reconstructed_FXSY01002986.1	741	2	2	A:1	G:0
+28S_M_Incognita_reconstructed_FXSY01002986.1	803	2	2	T:1	C:0
+28S_M_Incognita_reconstructed_FXSY01002986.1	815	2	2	A:1	G:0
+28S_M_Incognita_reconstructed_FXSY01002986.1	820	2	2	C:0.5	T:0.5
+28S_M_Incognita_reconstructed_FXSY01002986.1	825	2	2	A:0.5	G:0.5
+28S_M_Incognita_reconstructed_FXSY01002986.1	844	2	2	A:0.5	G:0.5
+28S_M_Incognita_reconstructed_FXSY01002986.1	870	2	2	T:0.5	A:0.5
+28S_M_Incognita_reconstructed_FXSY01002986.1	882	2	2	C:0.5	T:0.5
+28S_M_Incognita_reconstructed_FXSY01002986.1	919	2	2	C:0.5	A:0.5
+28S_M_Incognita_reconstructed_FXSY01002986.1	1118	2	2	C:0.5	A:0.5
+28S_M_Incognita_reconstructed_FXSY01002986.1	1120	2	2	A:0.5	C:0.5
+28S_M_Incognita_reconstructed_FXSY01002986.1	1199	2	2	G:0.5	T:0.5
+28S_M_Incognita_reconstructed_FXSY01002986.1	1223	2	2	T:0.5	A:0.5
+28S_M_Incognita_reconstructed_FXSY01002986.1	1322	3	2	GC:0	AT:0.5	AC:0.5
+28S_M_Incognita_reconstructed_FXSY01002986.1	1464	2	2	C:0.5	T:0.5
+28S_M_Incognita_reconstructed_FXSY01002986.1	1486	2	2	T:0.5	A:0.5
+28S_M_Incognita_reconstructed_FXSY01002986.1	1493	3	2	ATTCCGTGAAG:0	ATTTTCTGTGAAA:0.5	ATTTTGTTAAAA:0.5
+28S_M_Incognita_reconstructed_FXSY01002986.1	1541	2	2	C:1	T:0
+28S_M_Incognita_reconstructed_FXSY01002986.1	1662	2	2	C:0.5	T:0.5
+28S_M_Incognita_reconstructed_FXSY01002986.1	1717	2	2	G:0.5	T:0.5
+28S_M_Incognita_reconstructed_FXSY01002986.1	1729	2	2	G:0.5	A:0.5
+28S_M_Incognita_reconstructed_FXSY01002986.1	1743	2	2	TT:0.5	AC:0.5
+28S_M_Incognita_reconstructed_FXSY01002986.1	1750	2	2	CACCC:0.5	TACCT:0.5
+28S_M_Incognita_reconstructed_FXSY01002986.1	1805	2	2	G:0.5	T:0.5
+28S_M_Incognita_reconstructed_FXSY01002986.1	1815	2	2	A:0.5	G:0.5
+28S_M_Incognita_reconstructed_FXSY01002986.1	1850	2	2	T:0.5	C:0.5
+28S_M_Incognita_reconstructed_FXSY01002986.1	1897	2	2	G:0.5	A:0.5
+28S_M_Incognita_reconstructed_FXSY01002986.1	1900	2	2	C:0.5	T:0.5
+28S_M_Incognita_reconstructed_FXSY01002986.1	1936	2	2	G:0.5	A:0.5
+28S_M_Incognita_reconstructed_FXSY01002986.1	1944	2	2	C:0.5	T:0.5
+28S_M_Incognita_reconstructed_FXSY01002986.1	1972	2	2	C:1	T:0
+28S_M_Incognita_reconstructed_FXSY01002986.1	2037	2	2	CC:0.5	TT:0.5
+28S_M_Incognita_reconstructed_FXSY01002986.1	2151	2	2	T:1	C:0
+28S_M_Incognita_reconstructed_FXSY01002986.1	2159	2	2	G:1	A:0
+28S_M_Incognita_reconstructed_FXSY01002986.1	2179	2	2	A:0.5	T:0.5
+28S_M_Incognita_reconstructed_FXSY01002986.1	2205	2	2	C:0.5	A:0.5
+28S_M_Incognita_reconstructed_FXSY01002986.1	2210	3	2	CTTCTTA:0	CCTTT:0.5	CCTTA:0.5
+28S_M_Incognita_reconstructed_FXSY01002986.1	2260	2	2	C:0.5	T:0.5
+28S_M_Incognita_reconstructed_FXSY01002986.1	2268	2	2	C:0.5	T:0.5
+28S_M_Incognita_reconstructed_FXSY01002986.1	2289	2	2	A:1	G:0
+28S_M_Incognita_reconstructed_FXSY01002986.1	2374	2	2	G:1	T:0
+28S_M_Incognita_reconstructed_FXSY01002986.1	2721	2	2	T:1	A:0
+28S_M_Incognita_reconstructed_FXSY01002986.1	2761	2	2	C:0.5	A:0.5
+28S_M_Incognita_reconstructed_FXSY01002986.1	3292	2	2	C:0.5	T:0.5
+28S_M_Incognita_reconstructed_FXSY01002986.1	3422	2	2	ACT:0.5	AT:0.5
+28S_M_Incognita_reconstructed_FXSY01002986.1	3427	2	2	TTAG:0	TTTG:1
+28S_M_Incognita_reconstructed_FXSY01002986.1	3463	2	2	C:0.5	T:0.5
+28S_M_Incognita_reconstructed_FXSY01002986.1	3514	3	2	GGTTA:0	TGTGTA:0.5	GGTGTA:0.5
+28S_M_Incognita_reconstructed_FXSY01002986.1	3546	2	2	C:0.5	T:0.5
+28S_M_Incognita_reconstructed_FXSY01002986.1	3574	2	2	TC:0.5	AT:0.5
