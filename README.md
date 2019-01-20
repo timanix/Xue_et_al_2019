@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/165985614.svg)](https://zenodo.org/badge/latestdoi/165985614)
 # SNP_pipeline.ipynb contains following steps:
 ## 1. Installing dependencies  
 This step will install all software used in this pipeline, assuming python and conda/anaconda already installed
