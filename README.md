@@ -48,4 +48,3 @@ Create barplot for samples of the interest by species and gene regions
 ## 9. SNP heatmapes by species and genes separately
 Create heatmaps for species, presented by several isolates to see variability of SNPs within species
 - Output files - heatmaps-like figures with SNP positions by genes (regions) and different isolates within species
-
